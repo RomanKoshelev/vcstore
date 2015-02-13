@@ -490,6 +490,7 @@
     <Content Include="App_Data\Virto\Configuration\Store.config">
       <SubType>Designer</SubType>
     </Content>
+    <Content Include="App_Data\Virto\Configuration\connectionStrings.azure.config" />
     <None Include="MvcSiteMapSchema.xsd">
       <SubType>Designer</SubType>
     </None>
